@@ -42,7 +42,7 @@ Python library to access the REST API of the toniecloud. NOT associated with Box
 
 install specific via pip install git+https://github.com/flyk3r/tonie_api
 
-`pip install tonie-api`
+`pip install git+https://github.com/flyk3r/tonie_api`
 
 ## Contributors ✨
 
